@@ -31,14 +31,27 @@ References:
 References:
 1. Vörösmarty, C. J., McIntyre, P. B., Gessner, M. O., Dudgeon, D., Prusevich, A., Green, P., et al. (2010). Global threats to human water security and river biodiversity. Nature 467, 555–561. doi: 10.1038/nature09440  
 2. Shean D E, Bhushan S, Montesano P, et al. A systematic, regional assessment of high mountain Asia glacier mass balance[J]. Frontiers in Earth Science, 2020, 7: 363.<br>  
-![Hydro_Basin](basins/hydro_basin.png)
-
+### -- 2.2. Hydrologic basins from level1-level6 by Lehner and Grill (2013).
+Reference: 
+1. Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world’s large river systems. Hydrological Processes, 27(15): 2171–2186.
+![Hydro_Basin](basins/hydro_basins.png)
 
 ## - 3. Glaciers  
 RGI60_13(Central Asia); RGI60_14(South Asia(West)); RGI60_15(South Asia(East)). 
 References:
 1. RGI Consortium (2017). Randolph Glacier Inventory – A Dataset of Global Glacier Outlines: Version 6.0: Technical Report. Technical report, Global Land Ice Measurements from Space. doi: 10.7265/N5-RGI-60.
+![Glaciers](glaciers/glaciers.png)
    
-   
+## - 4. Rivers  
+Main rivers in HMA
+References:
+1. download from: https://datacatalog.worldbank.org/search/dataset/0042032
+![Rivers](rivers/rivers_hma.png)
 
-### **Todo: revise the visual/visual_data.ipynb and visual/visual_extent.ipynb script.**
+## - 5. Rivers  
+Global Lakes and Wetlands Database Level-1 (GLWD-1) Dataset.
+References
+1. Lehner, B. and Döll, P. (2004): Development and validation of a global database of lakes, reservoirs and wetlands. Journal of Hydrology 296/1-4: 1-22.
+![Lakes](lakes/lakes_hma.png)
+
+
