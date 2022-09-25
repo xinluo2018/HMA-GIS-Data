@@ -10,7 +10,6 @@ References:
 3. Zhang, Y.L., Li, B.Y., Liu, L.S., Zheng, D. (2021). Redetermine the region and boundaries of Tibetan Plateau. GEOGRAPHICAL RESEARCH, 40(6), 1543-1553.<br>  
 ![TP_Boundry](extents/TPlateau/TP_Boundaries.png)
 
-
 ### -- 1.2. HMA extents (with glacier subregions)  
 #### --- 1.2.1. hma_subregions_brun2017:
 References:
@@ -23,8 +22,6 @@ References:
 References:
 1) Liu J, Milne R I, Zhu G F, et al. Name and scale matters: Clarifying the geography of Tibetan Plateau and adjacent mountain regions[J]. Global and Planetary Change, 2022: 103893.
 ![HMA_extent](extents/HMA/hma_extents.png)
-
-
 
 ## - 2. Basins:
 ### -- 2.1. Hydrologic basin  with 6 min spatial resolution on Asia.
@@ -48,10 +45,9 @@ References:
 1. download from: https://datacatalog.worldbank.org/search/dataset/0042032
 ![Rivers](rivers/rivers_hma.png)
 
-## - 5. Rivers  
+## - 5. Lakes  
 Global Lakes and Wetlands Database Level-1 (GLWD-1) Dataset.
 References
-1. Lehner, B. and Döll, P. (2004): Development and validation of a global database of lakes, reservoirs and wetlands. Journal of Hydrology 296/1-4: 1-22.
+1. Lehner, B. and Döll, P. (2004): Development and validation of a global database of lakes, reservoirs and wetlands. Journal of Hydrology 296/1-4: 1-22.  
 ![Lakes](lakes/lakes_hma.png)
-
 
