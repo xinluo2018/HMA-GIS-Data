@@ -17,11 +17,15 @@ References:
 #### --- 1.2.2. hma_subregions_bolch2019:** 
 References:
 1) Bolch T, Shea J M, Liu S, et al. Status and change of the cryosphere in the extended Hindu Kush Himalaya region[M]. The Hindu Kush Himalaya Assessment. Springer, Cham, 2019: 209-255.<br>  
-#### --- 1.2.3. Pan-Tibetan Highlands (hma) extents 
+#### --- 1.2.3. hma_subregions_gtng_2023:** 
+References:
+1) GTN-G. GTN-G Glacier Regions. 2023. doi:10.5904/gtng-glacreg-2023-07.<br>  
+
+#### --- 1.2.4. Pan-Tibetan Highlands (hma) extents 
 (Comprising 4 subregions: Tibetan Plateau, Himalaya, Hengduan Mountains and Mountains of Centra Asia)
 References:
 1) Liu J, Milne R I, Zhu G F, et al. Name and scale matters: Clarifying the geography of Tibetan Plateau and adjacent mountain regions[J]. Global and Planetary Change, 2022: 103893.
-![HMA_extent](extents/HMA/hma_extents.png)
+![HMA_extent](extents/HMA/hma_subregions.png)
 
 ## - 2. Basins:
 ### -- 2.1. Hydrologic basin  with 6 min spatial resolution on Asia.
