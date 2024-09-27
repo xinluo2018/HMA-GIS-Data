@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.DS_Store
+**/.DS_Store
+
+## exceed the limited storage of 50M 
+data/*
+**.pptx
+
