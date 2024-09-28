@@ -48,20 +48,25 @@ References:
 ![Glaciers](figures/hma_glaciers.png)
 
 ## - 4. Rivers  
-### -- 2.1. GRWL dataset
-Major rivers in HMA
+### -- 2.1. Major rivers in HMA 
+Source: World Band Group
 References:
 1. download from: https://datacatalog.worldbank.org/search/dataset/0042032
-![Rivers](figures/hma_rivers.png)
-### -- 2.2. sword dataset
-River beaches in HMA
+![Rivers](figures/hma_major_rivers.png)
+### -- 2.2. SWORD dataset
+River beaches in HMA   
 References:
 1. Altenau E H, Pavelsky T M, Durand M T, et al. The Surface Water and Ocean Topography (SWOT) Mission River Database (SWORD): A global river network for satellite data products[J]. Water Resources Research, 2021, 57(7): e2021WR030054.
-![Rivers](figures/hma_rivers_reaches_sword.png)
+![Rivers](figures/hma_river_reaches_sword.png)
 
 ## - 5. Lakes  
-Global Lakes and Wetlands Database Level-1 (GLWD-1) Dataset.
+### --- 5.1 Global Lakes and Wetlands Database Level-1 (GLWD-1) Dataset.
 References
 1. Lehner, B. and Döll, P. (2004): Development and validation of a global database of lakes, reservoirs and wetlands. Journal of Hydrology 296/1-4: 1-22.  
 ![Lakes](figures/hma_lakes.png)
+
+### --- 5.2 HydroLakes dataset.
+Reference: 
+1. Messager, M.L., Lehner, B., Grill, G., Nedeva, I., Schmitt, O. (2016). Estimating the volume and age of water stored in global lakes using a geo-statistical approach. Nature Communications, 7: 13603. https://doi.org/10.1038/ncomms13603
+
 
