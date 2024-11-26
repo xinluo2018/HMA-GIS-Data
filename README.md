@@ -22,9 +22,9 @@ References:
 1) Bolch T, Shea J M, Liu S, et al. Status and change of the cryosphere in the extended Hindu Kush Himalaya region[M]. The Hindu Kush Himalaya Assessment. Springer, Cham, 2019: 209-255.<br>  
 #### --- 1.2.3. hma_subregions_gtng_2023:
 References:
-1) GTN-G. GTN-G Glacier Regions. 2023. doi:10.5904/gtng-glacreg-2023-07.<br>  
+1) GTN-G. GTN-G Glacier Regions. 2023. doi:10.5904/gtng-glacreg-2023-07.<br>
+2) Link: https://www.mountcryo.org/datasets/      
 ![HMA_extent](figures/hma_subregions_gtng.png)
-
 
 #### --- 1.2.4. Pan-Tibetan Highlands (hma) extents 
 (Comprising 4 subregions: Tibetan Plateau, Himalaya, Hengduan Mountains and Mountains of Centra Asia)   
@@ -63,10 +63,14 @@ References:
 ### --- 5.1 Global Lakes and Wetlands Database Level-1 (GLWD-1) Dataset.
 References
 1. Lehner, B. and Döll, P. (2004): Development and validation of a global database of lakes, reservoirs and wetlands. Journal of Hydrology 296/1-4: 1-22.  
-![Lakes](figures/hma_lakes.png)
-
 ### --- 5.2 HydroLakes dataset.
 Reference: 
 1. Messager, M.L., Lehner, B., Grill, G., Nedeva, I., Schmitt, O. (2016). Estimating the volume and age of water stored in global lakes using a geo-statistical approach. Nature Communications, 7: 13603. https://doi.org/10.1038/ncomms13603
+![Lakes](figures/hma_lakes.png)
 
+## - 5. Reservoirs   
+### --- 5.1 Global Dam Watch (GDW) dataset.   
+References
+1. Mulligan M, Lehner B, Zarfl C, et al. Global Dam Watch: curated data and tools for management and decision making[J]. Environmental Research: Infrastructure and Sustainability, 2021, 1(3): 033003.   
+![Reservoirs](figures/hma_reservoirs.png)
 

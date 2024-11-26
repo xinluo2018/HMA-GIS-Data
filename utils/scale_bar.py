@@ -25,7 +25,7 @@ def scale_bar(ax, length=None, location=(0.5, 0.05), linewidth=3):
     #Calculate a scale bar length if none has been given
     #(Theres probably a more pythonic way of rounding the number but this works)
     if not length: 
-        length = (x1 - x0) / 5000 #in km
+        length = (x1 - x0) / 5000 # in km
         ndim = int(np.floor(np.log10(length))) #number of digits in number
         length = round(length, -ndim) #round to 1sf
         #Returns numbers starting with the list
