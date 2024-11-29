@@ -8,7 +8,7 @@ References:
 1. Zhang, Y., Ren, H., Pan, X. (2019). Integration dataset of Tibet Plateau boundary. National Tibetan Plateau Data Center, DOI: 10.11888/Geogra.tpdc.270099. CSTR: 18406.11.Geogra.tpdc.270099. (Data citation)
 2. Zhang, Y.L., Li, B.Y., Zheng, D. (2002). A discussion on the boundary and area of the tibetan plateau in china. Geographical Research.
 3. Zhang, Y.L., Li, B.Y., Liu, L.S., Zheng, D. (2021). Redetermine the region and boundaries of Tibetan Plateau. GEOGRAPHICAL RESEARCH, 40(6), 1543-1553.<br>  
-![TP_Boundry](figures/TP_Boundaries.png)
+![TP_Boundry](figures/TP_boundaries.png)
 
 ### -- 1.2. HMA extents (with glacier subregions)  
 1) Overview of the HMA extents in different researches.
